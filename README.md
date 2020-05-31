@@ -11,4 +11,5 @@ This project is about combining various ideas and skills we’ve been practicing
  - Updating views
  - Properly scoping variables
  - Finding views by their ID
-
+# Screenshot
+ ![Screenshot_2020-05-31-21-08-45-645_com example cricketscorekeeperapp](https://user-images.githubusercontent.com/65824232/83356344-4280c500-a383-11ea-8abd-470fd9cc1724.jpg)
